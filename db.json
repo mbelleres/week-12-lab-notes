@@ -1,0 +1,20 @@
+{
+  "studentRoster": [], 
+  "recipes": [
+    {
+        "id": 0,
+        "title": "Spaghetti",
+        "category": "Pasta"
+    },
+    {
+        "id": 1,
+        "title": "Fettucini",
+        "category": "Pasta"
+    },
+    {
+        "id": 2,
+        "title": "Meatloaf",
+        "category": "Casserole"
+    }
+]
+}
